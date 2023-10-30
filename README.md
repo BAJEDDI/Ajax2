@@ -1,5 +1,5 @@
 # Ajax2
-# Student, Machine Brands, and Machines Management Web Application
+# Web Application for student, machine and brand managment
 
 ## Screenshots
 ![image](https://github.com/BAJEDDI/Ajax2/assets/147507670/08018251-8e9a-4a93-9f7b-55dd2e7e7d64)
